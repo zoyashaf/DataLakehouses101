@@ -1,8 +1,13 @@
 # End-to-end Machine Learning with Databricks 
 
+<p align="center">
+  <img src="./figures/datalakehouse.webp" width="500"/>
+</p>
+
+
 <div align="center">
 
-[Key Features](#key-features) • [Getting Started](#getting-started) • [How to Use](#usage) • [Citation](#Citation)
+[Key Features](#key-features) • [Getting Started](#getting-started) • [How to Use](#usage) • [References](#references)
 
 </div>
 
@@ -20,6 +25,10 @@ This repository is for Big Data &amp; Scalable Computation (DSE I2450). It conta
   - A self-contained tutorial with links to external resources for interested users.
 
 ## Getting Started 
+
+## Usage 
+
+## References 
 
 
 
