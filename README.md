@@ -1,14 +1,12 @@
 # End-to-end Machine Learning with Databricks 
 
 <p align="center">
-  <img src="./figures/datalakehouse.webp" width="500"/>
+  <img src="./figures/datalakehouse.webp" width="500"/> <br>
 </p>
 
-
 <div align="center">
-
+  
 [Key Features](#key-features) • [Getting Started](#getting-started) • [How to Use](#usage) • [References](#references)
-
 </div>
 
 <div align="center">
