@@ -1,0 +1,6 @@
+summary,Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Max Power,Max Torque,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity
+count,2059,2059,2059,2059,2059,2059,2059,2059,2059,2059,2059,1979,1979,1979,1923,1995,1995,1995,1995,1946
+mean,null,null,1702991.6964545897,2016.4254492472073,54224.714424477905,null,null,null,null,null,null,null,null,null,null,4280.860651629073,1767.9919799498746,1591.7353383458646,5.306265664160401,52.00220966084275
+stddev,null,null,2419880.6354341814,3.363563584951663,57361.72131433033,null,null,null,null,null,null,null,null,null,null,442.45850677915513,135.26582519704777,136.07395597176094,0.8221701349425025,15.110197794109098
+min,Audi,2 Series Gran Coupe 220d M Sport [2020-2021],100000,1988,0,CNG,Automatic,Agra,Beige,4 or More,Commercial Registration,1047 cc,100 bhp @ 3600 rpm,101 Nm @ 3000 rpm,AWD,3099.0,1475.0,1165.0,2.0,100.0
+max,Volvo,i20 Sportz 1.4 CRDI,999000,2022,99000,Petrol + LPG,Manual,Zirakpur,Yellow,UnRegistered Car,Individual,999 cc,99 bhp @ 5000 rpm,99@2800,RWD,5569.0,2220.0,1995.0,8.0,95.0
