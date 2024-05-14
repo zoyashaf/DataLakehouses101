@@ -1,4 +1,10 @@
-# DataLakehouses101
-A repo for Big Data &amp; Scalable Computation (DSE I2450).  Contains files for the final project on comparing data warehouses, data lakes, and data lakehouses as well as code demonstrations.
+# Data Processing with Delta Lakes
 
-* Please note that the .ipynb files may have formatting issues. For the best user experience, please download the .dbc files from this link and add them to your databricks account. For help please refer to: 
+The tutorials in this folder explore various ways to handle data in Databricks. Specifically, we introduce Delta Lake, which is Databrick's open-storage format that powers their lakehouse. 
+
+```bash
+├── Data Ingestion, Cleaning, and Exploration       # Walks through Delta Tables for data cleaning and EDA 
+├── quickstart_sales_retail.ipynb                   # Gives an overview of multiple data tasks and ETL processes 
+```
+
+<b> Please note that the .ipynb files may have formatting issues. </b> For the best user experience, please download the .dbc files from this link and add them to your Databricks account. For help please refer to link  
