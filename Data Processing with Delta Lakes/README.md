@@ -1,4 +1,4 @@
-# Data Processing with Delta Lakes
+# <img src='https://www.svgrepo.com/show/229520/lake.svg' style="height: 80px; margin: 5px; padding: 5px"/>  Data Processing with Delta Lakes
 
 The tutorials in this folder explore various ways to handle data in Databricks. Specifically, we introduce Delta Lake, which is Databrick's open-storage format that powers their lakehouse. 
 
