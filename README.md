@@ -17,12 +17,16 @@
 
 This repository is for Big Data &amp; Scalable Computation (DSE I2450). It contains files for our final project on data warehouses, lakes, and lakehouses.
 
-## Key Features
+## <img src='https://www.svgrepo.com/show/229886/idea.svg' style="height: 30px; margin: 5px; padding: 5px"/>  Key Features
+
+
+
+
   - Notebook tutorials that walk through building a machine learning pipeline on Databricks while showcasing how lakehouse storage and functionality can be used in the process.
   - Supplementary documentation to provide more information on tasks and concepts mentioned in the notebooks.
   - A self-contained tutorial with links to external resources for interested users.
 
-## Usage 
+## <img src='https://www.svgrepo.com/show/229886/idea.svg' style="height: 30px; margin: 5px; padding: 5px"/> Usage 
 ### Repo Structure
 ```bash
 ├── Data Processing with Delta Lakes       # Contains tutorials for all things data (data cleaning, EDA, ETL processes, etc.) 
@@ -42,7 +46,7 @@ This repository is for Big Data &amp; Scalable Computation (DSE I2450). It conta
     -  When a coding task is given, the solution is also provided.
   -  External documentation and more information are linked wherever necessary.
 
-## Getting Started 
+## <img src='https://www.svgrepo.com/show/229886/idea.svg' style="height: 30px; margin: 5px; padding: 5px"/> Getting Started 
   - We recommend starting with the Data Processing with Delta Lakes files and then proceeding to the Machine Learning tutorials.
 
 ## References 
