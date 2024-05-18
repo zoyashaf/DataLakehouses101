@@ -31,4 +31,4 @@ A JSON file containing customer data for use in data processing and analysis tas
 
 #### export.csv
 
-A CSV file summarizing various attributes related to cars, including make, model, price, year, and more.
+A CSV file summarizing various attributes related to sales. This dataset shows how structured data can be loaded and merged with a semi strucutured data on data bricks.
