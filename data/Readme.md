@@ -1,3 +1,5 @@
+# Data
+Refer to this README for a summary of all documentation available in the docs folder.
 
 # Overview
 The data folder houses various datasets used for demonstrating data lakehouse functionalities. These datasets include car details and customer data, which are used in the notebooks for data ingestion, cleaning, and exploration tasks.
