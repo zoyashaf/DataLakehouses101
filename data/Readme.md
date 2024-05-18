@@ -29,12 +29,12 @@ This folder contains JSON and CSV files used for quickstart guides or initial se
 
 #### customers.json
 
-A JSON file containing customer data for use in data processing and analysis tasks. This dataset shows how semi-structured data can be loaded and intergrated with structured data in data bricks.
+A JSON file containing customer data for use in data processing and analysis tasks.
 
 #### export.csv
 
-A CSV file summarizing various attributes related to sales. This dataset shows how structured data can be loaded and intergrated with semi structured data in data bricks.
+A CSV file summarizing various attributes related to sales. 
 
 # Note
 
-The notebooks used have strucutred and unstrucutred data just for demonstration purpose. The same tasks can be done by integrating structured data with unstructured data or unstructured data with semi structured data.
+The notebooks used have structured and unstrucutred data just for demonstration purpose. The same tasks can be done by integrating structured data with unstructured data or unstructured data with semi structured data.
