@@ -14,7 +14,7 @@ This document provides an in-depth overview of different data management systems
 
 ### Delta Lake Tables.pdf
 
-This PDF focuses on Delta Lake, a storage layer that brings transactions to Apache Spark and other big data workloads. It explains the creation, management, and optimization of Delta Lake tables. Use this document as a guide for implementing Delta Lake tables, understanding their benefits, and learning best practices for maintaining them.
+This PDF focuses on Delta Lake, a storage layer that brings transactions to Apache Spark and other big data workloads (Databricks in our case) using PySpark. It explains the creation, management, and optimization of Delta Lake tables. Use this document as a guide for implementing Delta Lake tables, understanding their benefits, and learning best practices for maintaining them.
 
 ### Create_compute.pdf
 
