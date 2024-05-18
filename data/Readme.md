@@ -12,12 +12,10 @@ Contains multiple CSV files with detailed information on cars. The files in this
 
 These file Contains detailed car data including attributes like car name, year, selling price, present price, kilometers driven, and more.
 
-##### car data.csv
-
-##### car details v4.csv
+#### car details v4.csv
 A refined version of the car details dataset with additional attributes or updated records.
 
-##### car_details_v4_edited.csv
+#### car_details_v4_edited.csv
 
 An edited version of the v4 dataset, containing cleaned or curated data for specific analyses.
 
