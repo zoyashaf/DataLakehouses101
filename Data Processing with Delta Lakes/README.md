@@ -8,6 +8,5 @@ The tutorials in this folder explore various ways to handle data in Databricks. 
 ├── quickstart_sales_retail.ipynb                   # Gives an overview of multiple data tasks and ETL processes 
 ```
 
-<b> Please note that the .ipynb files may have formatting issues. </b> For the best user experience, please download the .dbc files from [this link](https://drive.google.com/drive/folders/1FcC7Qokhj7fTLTpPUdYsHd62WHjVVP41?usp=sharing) and add them to your Databricks account. For help please refer to link  
-
+<b> Please note that the .ipynb files may have formatting issues. </b> For the best user experience, please download the .dbc files from [this link](https://drive.google.com/drive/folders/1FcC7Qokhj7fTLTpPUdYsHd62WHjVVP41?usp=sharing) and add them to your Databricks account.
 
