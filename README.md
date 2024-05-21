@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[Key Features](#key-features) • [How to Use](#usage) • [Getting Started](#getting-started) • [References](#references)
+[Key Features](#key-features) • [How to Use](#usage) • [References](#references)
 </div>
 
 <div align="center">
@@ -45,11 +45,10 @@ This repository is for Big Data &amp; Scalable Computation (DSE I2450). It conta
     -  When a coding task is given, the solution is also provided.
   -  External documentation and more information are linked wherever necessary.
 
-## <img src='https://www.svgrepo.com/show/229886/idea.svg' style="height: 30px; margin: 5px; padding: 5px"/> Getting Started 
-  - We recommend starting with the Data Processing with Delta Lakes files and then taking a deeper look at Delta Lake with the Delta Lake tutorial. 
 
 ## References 
-  - Above image from Forbes [link]
+  - Above image from Forbes [link](https://www.forbes.com/sites/bernardmarr/2022/01/18/what-is-a-data-lakehouse-a-super-simple-explanation-for-anyone/?sh=434b5f3a6088)
+  
     
 
 
